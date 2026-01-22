@@ -99,7 +99,7 @@ st.markdown("""
 
 if selected_category == "トップページ" or selected_category == "すべて":
     # --- 【トップページ専用表示】 ---
-    st.title("✨ URLの追加とアドバイザー")
+    st.title("📝 備忘録くん")
     st.markdown(f"""
     <div class="usage-guide-text">
         <strong>URLをペーストするだけで、AIが内容を要約しカテゴリへ自動分類します。</strong><br>
